@@ -1,4 +1,4 @@
-# performance-audit
+# Performance Audit —— Lighthouse 评分 90+，不破坏追踪和转化
 
 > 从 **Google PageSpeed Insights / Lighthouse** 角度对页面进行性能审计，同时不牺牲布局、追踪、UTM、SEO 或转化。
 

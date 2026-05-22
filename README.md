@@ -1,4 +1,4 @@
-# performance-audit
+# Performance Audit — Score 90+ on Lighthouse Without Breaking Tracking or Conversion
 
 > Page performance auditing through the lens of **Google PageSpeed Insights / Lighthouse**, without sacrificing layout, tracking, UTMs, SEO or conversion.
 
