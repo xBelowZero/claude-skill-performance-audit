@@ -2,7 +2,6 @@
 
 > 从 **Google PageSpeed Insights / Lighthouse** 角度对页面进行性能审计，同时不牺牲布局、追踪、UTM、SEO 或转化。
 
-为 Claude Code 打造的 skill。结构上参考了 [congruence](https://github.com/xBelowZero/congruence-skill) skill —— 同样的 Iron Law 模式、强制证据、显式严重度和部署前决策。
 
 ---
 

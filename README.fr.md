@@ -2,7 +2,6 @@
 
 > Audit de performance de pages sous l'angle de **Google PageSpeed Insights / Lighthouse**, sans sacrifier le layout, le tracking, les UTMs, le SEO ni la conversion.
 
-Skill créée pour Claude Code. Structurellement inspirée de la skill [congruence](https://github.com/xBelowZero/congruence-skill) — même pattern d'Iron Law, preuve obligatoire, sévérité explicite et décision pré-déploiement.
 
 ---
 

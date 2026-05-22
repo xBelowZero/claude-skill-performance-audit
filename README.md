@@ -4,7 +4,6 @@
 
 🇺🇸 · [🇧🇷](README.pt-BR.md) · [🇪🇸](README.es.md) · [🇫🇷](README.fr.md) · [🇩🇪](README.de.md) · [🇨🇳](README.zh.md)
 
-Skill built for Claude Code. Structurally inspired by the [congruence](https://github.com/xBelowZero/congruence-skill) skill — same pattern of Iron Law, mandatory evidence, explicit severity and pre-deploy decision.
 
 ---
 
